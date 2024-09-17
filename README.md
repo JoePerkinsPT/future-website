@@ -1,2 +1,2 @@
 # future-website
-This is the directory for a website created for the project in IBM course
+index (3).html
